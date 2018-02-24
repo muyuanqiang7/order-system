@@ -1,0 +1,4 @@
+info:
+  component: api-gateway
+server:
+  port: 7098
